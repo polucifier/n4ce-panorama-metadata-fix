@@ -38,4 +38,4 @@ def negate_xy_in_files(nazev,pocet_souboru):
             print(f"File not found: {input_filename} (Skipping)")
 
 # Run the function
-negate_xy_in_files("Job_20240108_1012_Track01_Sphere", 21)
+negate_xy_in_files("Job_20240108_1012_Track01_Sphere", 21) # Sem vlozte nazev souboru bez pripony a pocet souboru jez chcete zpracovat
